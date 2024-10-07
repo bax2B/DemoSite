@@ -1,2 +1,8 @@
 # DemoSite
-my first github repository 
+Application project
+
+Lead Dev: baxton B/barnhartbaxton@gmail.com
+
+
+
+
